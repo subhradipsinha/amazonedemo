@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="automationpractice">
+    <test name="automationpractice">
+        <classes>
+            <class name=""></class>
+            <class name=""></class>
+            <class name=""></class>
+        </classes>
+    </test>
+
+
+
+
+</suite>
